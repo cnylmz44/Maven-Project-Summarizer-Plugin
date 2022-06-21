@@ -1,0 +1,16 @@
+Project info : com.apache.test.0.0.1-SNAPSHOT
+Developers : 
+Developer 1 Name : Can YILMAZ
+Release Date : 2022-06-21
+Dependencies : 
+Dependency : junit.junit
+Plugins : 
+Plugin : summarizer
+Plugin : maven-clean-plugin
+Plugin : maven-resources-plugin
+Plugin : maven-jar-plugin
+Plugin : maven-compiler-plugin
+Plugin : maven-surefire-plugin
+Plugin : maven-install-plugin
+Plugin : maven-deploy-plugin
+Plugin : maven-site-plugin

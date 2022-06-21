@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.apache.maven.plugin.AbstractMojo"/>
+    <fullyQualifiedTypeName name="org.apache.maven.plugins.annotations.Mojo"/>
+    <fullyQualifiedTypeName name="org.apache.maven.plugins.annotations.LifecyclePhase"/>
+    <fullyQualifiedTypeName name="org.apache.maven.project.MavenProject"/>
+    <fullyQualifiedTypeName name="org.apache.maven.plugins.annotations.Parameter"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="org.apache.maven.model.Developer"/>
+    <fullyQualifiedTypeName name="org.apache.maven.model.Dependency"/>
+    <fullyQualifiedTypeName name="org.apache.maven.model.Plugin"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+</qualifiedTypeNameHistroy>
