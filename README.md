@@ -1,6 +1,5 @@
 # Homework-1
 ## Maven Custom Plugin
-### Deadline 23.06.2022 Perşembe 18:00
 Arkadaşlar ödevinizde bir maven buildinde kullanılmak üzere custom plugin geliştirmenizi istiyorum.
 Bu plugin çalıştırıldıgı projenin bazı bilgilerini pom.xml'den okuyup bir özet dosyası oluşturacaktır.
 Bu pluginin bir tane goal'e sahip olacaktır. İsmi summarize olabilir.
